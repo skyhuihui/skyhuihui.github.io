@@ -10,10 +10,10 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: skyhuihui # add your name
-author-img:  # add your photo
+author-img: dog.jpg # add your photo
 about-author: 我是一个区块链开发人员，热爱，持续学习，并且前进 # add description
 social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+social-facebook: HuiHui Sky
 social-github: skyhuihui 
 social-linkedin: # add your Linkedin handle
 social-email: huihuisky@outlook.com
