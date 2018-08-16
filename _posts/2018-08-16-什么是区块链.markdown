@@ -7,11 +7,9 @@ img: software.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [区块链]
 ---
-
--http://www.forexnewsnow.com/top-stories/bitcoin-2016-summary-2017-forecasts/-
 除非你是山顶洞人，我确信你已经听说了比特币（Bitcoins）和区块链。毕竟，它们是热点，是这几天媒体最喜欢的话题，也是年度流行词。连那些从来没有听过加密货币（cryptocurrency）、根本不知道它如何运行的家伙们也在谈论它。我的朋友中，非技术宅可比技术宅要多。为了让我给他们解释这个新流行词，他们已经骚扰我好几个星期了。我猜，成千上万人跟我有着同样的感受。当这种情形出现，是时候要写一些东西了，好让每个人都能戳醒那些糊涂蛋——这就是这篇推送的目的——以浅白的英文写作，让任何普通的网友都能理解。
 
-区块链：为什么我们需要这么复杂的东西？
+>区块链：为什么我们需要这么复杂的东西？
 “每一个复杂的问题都有一个清晰、简单并且是错误的答案。”——H.L.Mencken*
 
 与互联网上的其它任何推送相反，我们不会一开始就定义什么是区块链，我们会先认识它要解决的问题。
@@ -20,22 +18,17 @@ tags: [区块链]
 
 你回答”马上汇款“然后挂掉电话。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/505584b5857348ba9f8fb6cc47f01fb4.png
-
-
 然后你打电话给你银行账户的经理，”请从我的账户转 1000 美元到 Joe 的账户上“。
 
 你的账户经理回复，”收到，先生“。
 
 他打开账簿，查看你的账户以确定你有足够的余额转出 1000 美元给 Joe。因为你是个土豪，账上还有大量余额，因此，他在账簿上登记了一个条目，正如下图所示：
 
-http://upyun-assets.ethfans.org/uploads/photo/image/faa1344957b04acf8a5a324fb8f55416.png
 
 注意：我们不提计算机，只是为了让例子简单一点。
 
 你打电话给 Joe，告诉他，“我已经转账了。下一次你去银行的时候，你就可以取出我刚刚转过去的 1000 美元。”
 
-http://upyun-assets.ethfans.org/uploads/photo/image/fb8cec441941428a81f166cddc36c583.png
 
 发生了什么事？你和 Joe 都委托银行来管理你们的钱。并没有物理票据的实际流动来转移你们的钱。所需的一切不过是账簿上的一个条目。或者更准确一点，账簿上的一个既不受你和 Joe 控制、也不被你们所拥有的条目。
 
@@ -73,7 +66,6 @@ http://upyun-assets.ethfans.org/uploads/photo/image/fb8cec441941428a81f166cddc36
 
 多少人才算是够？至少要 3 个。打个比方，我们假设有 10 个人想抛弃银行以及任何第三方。根据相互之间的协议，他们可以一直拥有彼此的账号信息——但不知道其他人的真实身份。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/cb927f94054940dba39769124a21039c.png
 
 1.一个空的文件夹
 一开始的时候，每个人都掌握着一个空文件夹。正如我们要进行的那样，这 10 个人都将持续向他们的当前的文件夹中添加纸张。而这些纸张的集合将形成追踪交易的账簿。
@@ -85,11 +77,9 @@ http://upyun-assets.ethfans.org/uploads/photo/image/cb927f94054940dba39769124a21
 
 为了完成这次交易，#2 吼了一嗓子，告诉每个人，“我想转 10 美元给 #9。大家都在自己的小本本上记下来！”
 
-http://upyun-assets.ethfans.org/uploads/photo/image/2d49570689a04c99977d324af99a6c5a.png
 
 每个人都瞄一下 #2 是不是有足够的余额可以转 10 美元给 #9。如果她有足够的钱，每个人都在自己的空白页上为这笔交易做了一个记录。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/ef5820c888c74cf78e0d4584dede0c88.png
 
 这样，一笔转账就被认为是完成了。
 
@@ -98,7 +88,6 @@ http://upyun-assets.ethfans.org/uploads/photo/image/ef5820c888c74cf78e0d4584dede
 
 这样的实践持续进行，直到每个人都用完了他们当前页的空间。假设 1 页纸可以记录 10 笔交易，一旦10笔交易完成，每个人就都用完了空间。
 
-E0a6a9fe773b484088ff282c5fa9717c
 
 -纸张被写满的时候-
 那么，是时候该将这页纸存到文件夹里面，然后拿出一张新的纸、重复上述步骤2了。
@@ -118,19 +107,15 @@ E0a6a9fe773b484088ff282c5fa9717c
 
 [术语箱] 这个机器被称为“哈希方程”，但我们又没有心情搞得那么专业。所以，今天，它们就叫“魔法机器”。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/6c23f437da1d4093a39c1353d7404b24.png
 
 -魔法机器（又叫做 哈希方程）-
 假设，我们从左边塞了个数字 4 进去，我们会发现，它在右边吐出了下列字串：‘dcbea’。
 
 数字 4 是在怎么转化成这串字符的？没有人知道。而且，这个过程是不可逆的。得到了这串字符 ‘dcbea’，也不可能搞清楚这机器从左边接收到了什么。但是，任何时候，你输入数字4给这台机器，它都总是会吐出同样的字符，‘dcbea’。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/f760faa7ccbd44b5965594cfd1f16a6a.png
-
 - hash(4) == dcbea -
 来试试发送一个别的数字进去。26，怎么样？
 
-http://upyun-assets.ethfans.org/uploads/photo/image/8742cf094fd64f4887c5e325a0d79f63.png
 
 - hash（26）==94c8e -
 这次我们得到了 ‘94c8e’，看来字符同样可以包含数字。有意思！
@@ -139,7 +124,6 @@ http://upyun-assets.ethfans.org/uploads/photo/image/8742cf094fd64f4887c5e325a0d7
 
 “你能不能告诉我，要想在机器右边得到三个 0 开头的一串字符，我该从左边输入什么东西进去呢？比如，000ab，或者，00098，或者，000fa，或者其它情况中的任何一个。”
 
-http://upyun-assets.ethfans.org/uploads/photo/image/cd749c3879bd4602bcaaf9236417f721.png
 
 想一想这个问题吧。
 
@@ -147,12 +131,10 @@ http://upyun-assets.ethfans.org/uploads/photo/image/cd749c3879bd4602bcaaf9236417
 
 我可以想出一个办法。为什么我们不一个接一个地遍历宇宙中所有数字，直到我们得到一个三个 0 开头的一串字符？
 
-http://upyun-assets.ethfans.org/uploads/photo/image/e5010e92c37e49f39add7854c62d1509.png
 
 -尝试所有数字以算出需要的输入值-
 乐观估计，经过几千次尝试之后，我们最终会得到将在右边产生要求的输出值的一个数字。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/c9318d5d5d1f4eb7b1c240e66672e62a.png
 
 在给定输出值的时候，要算出输入值是极其艰难的。但与此同时，如果预测的输入值可以产生需要的输出值的话，它又是极为容易验证的。要记住，投入一个同样数字，这台机器每一次都会吐出同样的字符。
 
@@ -171,17 +153,14 @@ http://upyun-assets.ethfans.org/uploads/photo/image/c9318d5d5d1f4eb7b1c240e66672
 
 想象我给你了两个盒子。第一个盒子装着数字 20893。然后我问你，“你能不能找出一个数字，加上装在第一个盒子里面的数字以后，输进这台机器，最终会给我们一个以三个 0 开头的字符？”
 
-http://upyun-assets.ethfans.org/uploads/photo/image/5c33f70669d44435acba411076431679.png
 
 这种情形跟我们在之前看到的很相似，而我们已经知道，算出这样一个数字的为唯一方法就是穷举整个宇宙中每一个可能的数字。
 
 又是几千次尝试之后，我们会偶然发现一个数字，比如 21191，加上 20893 以后（比如：21191+20893 = 42084）输入机器，将产生一串符合我们要求的字符。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/dfc5378cd69c4515a5d148a2bb895c75.png
 
 在这个例子中，数字 21191 就成了数字 20893 的封条。假设现在有一张纸，数字 20893 写在上面。为了密封这页纸（比如：使得没有人能更改这页纸上的内容），我们将盖一个带有标签 ‘21191’ 的徽章在上面。一旦密封数字（比如：21191）被戳在纸上，这页纸就被密封了。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/89237b1c79974a99b03363bd53e9033e.png
 
 -密封数字-
 [术语箱] 密封数字又被称为“工作量证明”，意思是，这一数字证明了为了计算出它来已经付出的努力。为了我们的目的，我们最好还是称之为“密封数字”。
@@ -193,7 +172,6 @@ http://upyun-assets.ethfans.org/uploads/photo/image/89237b1c79974a99b03363bd53e9
 最后，封存我们的文件
 要密封包含着我们网络中交易内容的记录，我们将需要算出一个数字，该数字在添加到交易记录清单上、输入机器以后，可以使我们得到一串三个 0 开头的字符。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/5136f1e94ce24a2e92db1e52283ccc36.png
 
 注意：我一直在使用的“三个 0 开头的字符”，只是一个例子。它阐明了哈希方程是怎么工作的。实际当中的挑战要比这个复杂得多。
 
@@ -203,7 +181,6 @@ http://upyun-assets.ethfans.org/uploads/photo/image/5136f1e94ce24a2e92db1e52283c
 
 一旦每个人都用尽一页纸的空间、无法记录进一步的交易，他们就开始卖力地计算该页纸的密封数字，使得它可以被藏入文件夹中。在网络中，每个人都进行这个计算，而最早算出密封数字的那个人会向其他所有人宣布这个数字。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/ef52125c6d6a4d2a9fb62f438027c1d4.png
 
 听到密封数字之后，每个人都立即验证它是否能产生要求的输出值。如果是的，每个人都为他们的纸张标上这个数字，然后把纸张放入文件夹中。
 
@@ -247,7 +224,6 @@ http://upyun-assets.ethfans.org/uploads/photo/image/ef52125c6d6a4d2a9fb62f438027
 
 我们已经知道了，一个盒子装着交易记录的清单，一个盒子将装着密封数字。而第三个盒子，装着前一张纸的魔法机器输出值。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/f910062e6bfc4b8fa9b934d3890c72ea.png
 
 有了这个优雅的小心机，我们可以保证，每一页纸张都依赖于它之前的纸张。因此，如果有人要修改一张历史记录，他将同样必须改变该页以后所有纸张的内容和密封数字，以使这条链保持一致。
 
@@ -257,7 +233,6 @@ http://upyun-assets.ethfans.org/uploads/photo/image/f910062e6bfc4b8fa9b934d3890c
 
 最长的链就是诚实可信的链。
 
-http://upyun-assets.ethfans.org/uploads/photo/image/18a53244bc0743e091a5bf2ac8f2347b.png
 
 当我告诉你一个不诚实的家伙没法欺负九个实诚人的时候，它是否点醒了你什么？
 
@@ -273,6 +248,8 @@ http://upyun-assets.ethfans.org/uploads/photo/image/18a53244bc0743e091a5bf2ac8f2
 想到了某些人现在正应该读读这篇东西？“分享”按钮就在你手上。
 
 原文链接: https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
+
 作者: Mohit Mamoria
+
 翻译&校对: 阿剑 & Elisa
 
