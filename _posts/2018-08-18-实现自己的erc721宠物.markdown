@@ -16,7 +16,7 @@ tags: [区块链，智能合约，以太坊] # add tag
 
 本文引入了erc20 ，和 erc721 的接口 并对erc721 进行实现，而只调用部分erc20方法。
 
-![监听](https://github.com/skyhuihui/skyhuihui.github.io/edit/master/assets/img/2018-8-18-erc721宠物游戏/erc721，erc20.png)
+![erc721，erc20]({{site.baseurl}}/assets/img/2018-8-18-erc721宠物游戏/erc721，erc20.png)
 
 ### 接下来就带你一步一步实现自己的宠物
 
@@ -40,7 +40,7 @@ tags: [区块链，智能合约，以太坊] # add tag
 
 此图包含了竞拍的结构体，留作接下来 实现竞拍所用，具体的东西有：参与人，参与人的金额， 初始金额， 是否完成竞拍宠物发放， 最后就是竞拍时间 
 
-![结构体]{{site.baseurl}}/assets/img/2018-8-18-erc721宠物游戏/结构体.png
+![结构体]({{site.baseurl}}/assets/img/2018-8-18-erc721宠物游戏/结构体.png)
 
 一个产品没有客户端是做不起来的，然后客户端怎么知道创建了一个宠物或者 你给宠物重新定义了一个名字呢
 
