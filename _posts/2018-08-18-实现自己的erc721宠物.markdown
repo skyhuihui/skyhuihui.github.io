@@ -3,8 +3,8 @@ layout: post
 title: 实现自己的ERC721宠物
 date: 2018-08-18 05:00:00 +0300
 description: 你想拥有自己的宠物吗，一个独一无二的宠物. # Add post description (optional)
-img: erc721logo.png # Add image post (optional)
-tags: [Programming, Learn] # add tag
+img: # Add image post (optional)
+tags: [区块链，智能合约，以太坊] # add tag
 ---
 ### 你想拥有一个独一无二的宠物吗
 
