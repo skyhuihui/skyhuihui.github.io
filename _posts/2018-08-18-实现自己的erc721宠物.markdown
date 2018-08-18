@@ -16,7 +16,7 @@ tags: [区块链，智能合约，以太坊] # add tag
 
 本文引入了erc20 ，和 erc721 的接口 并对erc721 进行实现，而只调用部分erc20方法。
 
-![erc20,erc721]({{site.baseurl}}/assets/img/2018-8-18-erc721宠物游戏/erc721，erc20.png)
+{{site.baseurl}}/assets/img/2018-8-18-erc721宠物游戏/erc721，erc20.png
 
 ### 接下来就带你一步一步实现自己的宠物
 
