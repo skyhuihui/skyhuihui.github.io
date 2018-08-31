@@ -4,7 +4,7 @@ title: 实现中心钱包系统 （交易所中心钱包）
 date: 2018-08-18 05:00:00 +0300
 description: 中心钱包系统 # Add post description (optional)
 img: workflow.jpg# Add image post (optional)
-tags: [区块链][智能合约][以太坊][钱包架构] # add tag
+tags: [区块链,智能合约,以太坊,钱包架构] # add tag
 ---
 ### 交易所是如何给你分配地址的，如果检测你充币的，如何有让你提币的，这篇文章给你答案。
 
