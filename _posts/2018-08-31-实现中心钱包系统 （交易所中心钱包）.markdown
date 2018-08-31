@@ -81,7 +81,7 @@ erc20代币转账：
 ![消息通知配置]({{site.baseurl}}/assets/img/2018-8-31-中心钱包系统/消息通知配置.png)
 
 
-接口文档地址
+接口文档地址   访问密码 skyhuihui
 https://www.showdoc.cc/web/#/128880456266091?page_id=735603450466975
 
 github 代码地址
